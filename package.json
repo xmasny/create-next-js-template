@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "setup": "yarn && yarn dlx @yarnpkg/sdks"
+    "setup": "yarn && yarn dlx @yarnpkg/sdks vscode"
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
